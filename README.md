@@ -10,7 +10,7 @@
 ###  Sobre Mim
 
 <p align="left">
-  Sou um entusiasta da <strong>Segurança da Informação</strong> com foco em <strong>Pentesting</strong> e cultura <strong>DevSecOps</strong>. Minha paixão é encontrar vulnerabilidades e desenvolver soluções para criar um ambiente digital mais seguro. Adoro automatizar processos com scripts em <strong>Python</strong> e <strong>Bash</strong>, e sou um grande fã da simplicidade e poder do terminal.
+  Sou um entusiasta de <strong>Inteligência Artificial</strong> e  <strong>Segurança da Informação</strong> com foco em <strong>Pentesting</strong> e cultura <strong>DevSecOps</strong>. Minha paixão é encontrar vulnerabilidades e desenvolver soluções de IA para criar um ambiente digital mais seguro. Adoro automatizar processos com scripts em <strong>Python</strong> e <strong>Bash</strong>, e sou um grande fã da simplicidade e poder do terminal.
 <br><br>
   </p>
 
@@ -45,6 +45,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaocardosodias&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" height="180em" alt="Estatísticas de João no GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocardosodias&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" height="180em" alt="Linguagens mais usadas por João"/>
+  <br>
+  <img src="https://ghchart.rshah.org/3f3f3f/joaocardosodias" alt="Gráfico de Contribuições (Calendário) de João no GitHub"/>
 </p>
 
 
